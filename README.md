@@ -9,5 +9,5 @@ Algorithms used for accuracy rate;
 
 Graphs used for visualization;
 -Pie 
--Bar
--Correlation
+-Bar 
+-Correlation Matrix
