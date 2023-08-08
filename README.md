@@ -11,3 +11,4 @@ Graphs used for visualization;
 -Pie 
 -Bar 
 -Correlation Matrix
+-Confusion Matrix
