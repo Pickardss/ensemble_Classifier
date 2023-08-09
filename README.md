@@ -12,3 +12,5 @@ Graphs used for visualization;
 -Bar 
 -Correlation Matrix
 -Confusion Matrix
+
+I got help from chatGPT in this project
