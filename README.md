@@ -40,3 +40,5 @@ This project provides a hands-on comparison of ensemble classification algorithm
 
 Project owner: Pickardss
 Project date: 01/08/2023
+
+I got help from charGPT in this project
